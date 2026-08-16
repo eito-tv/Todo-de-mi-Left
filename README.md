@@ -1,4 +1,4 @@
-# L4D2 Competitive Pack
+                                                                              # L4D2 Competitive Pack
 
 ¡Bienvenido a mi configuración personalizada de Left 4 Dead 2!
 
