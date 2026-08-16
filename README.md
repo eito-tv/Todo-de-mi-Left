@@ -30,3 +30,5 @@ Este proyecto irá actualizándose conforme vaya publicando nuevos videos y conf
 Próximamente añadiré una guía detallada de instalación para que puedas configurar todo paso a paso.
 
 Si llegaste aquí desde uno de mis videos, gracias por apoyar el contenido. ¡Espero que esta configuración te sirva para hacer que tu Left 4 Dead 2 se sienta mucho más tuyo!
+
+![Mis mods]
