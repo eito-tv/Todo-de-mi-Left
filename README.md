@@ -36,3 +36,9 @@ Si llegaste aquí desde uno de mis videos, gracias por apoyar el contenido. ¡Es
 Link: https://steamcommunity.com/sharedfiles/filedetails/?id=3759219687
 
 Esta es la coleccion de mods que uso tipo: "Calidad de vida" para jugar versus y campaña
+
+![mods umamusume](./mods-umamusume.jpg)
+
+Link: https://steamcommunity.com/sharedfiles/filedetails/?id=3735059864
+
+Esta es mi coleccion de mods de umamusume que uso para las skins de algunas cosas
